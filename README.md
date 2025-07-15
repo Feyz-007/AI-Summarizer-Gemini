@@ -76,7 +76,7 @@ ai-summarizer/
 └── README.md
 ```
 
-## 🧠 Evaluation Criteria (Addressed):
+## 🧠 Evaluation Criteria:
 
 ### LLM Prompt Design & Chain of Reasoning:
 Prompts are dynamically injected and fully customizable by the user. This allows Gemini to generate context-aware, structured summaries — whether in bullet points, paragraphs, or hybrid formats — depending on the user’s intent.
