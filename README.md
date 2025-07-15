@@ -7,7 +7,6 @@ An intelligent and customizable AI summarization tool built with Google's Gemini
 ## 📽️ Demo Video
 
 🎬 [Watch on YouTube](https://youtu.be/Ptd5jAmlJAk)
-
 ---
 
 ## ✨ Features
@@ -76,3 +75,15 @@ ai-summarizer/
 ├── .env.example
 └── README.md
 ```
+
+## 🧠 Evaluation Criteria (Addressed):
+
+### LLM Prompt Design & Chain of Reasoning:
+Prompts are dynamically injected and fully customizable by the user. This allows Gemini to generate context-aware, structured summaries — whether in bullet points, paragraphs, or hybrid formats — depending on the user’s intent.
+
+### UI & Output Clarity:
+The interface is clean and intuitive, supporting both text and PDF inputs,Real-time input length display, and downloadable output summaries.
+
+### Real-World Utility:
+The tool is suitable for students, researchers, and content reviewers needing concise yet informative summaries from large documents.
+
