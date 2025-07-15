@@ -4,6 +4,12 @@ An intelligent and customizable AI summarization tool built with Google's Gemini
 
 ---
 
+## 📽️ Demo Video
+
+🎬 [Watch on YouTube](https://youtu.be/Ptd5jAmlJAk)
+
+---
+
 ## ✨ Features
 
 - 📝 Summarize PDFs or pasted text  
@@ -26,8 +32,8 @@ An intelligent and customizable AI summarization tool built with Google's Gemini
 ## 🚀 How to Run the App Locally
 
 ```bash
-git clone https://github.com/Feyz-007/AI-Summarizer-Gemini-.git
-cd ai-summarizer-gemini
+git clone https://github.com/Feyz-007/AI-Summarizer-Gemini-.git 
+cd AI-Summarizer-Gemini-
 
 # (Optional) Set up a virtual environment
 python -m venv venv
